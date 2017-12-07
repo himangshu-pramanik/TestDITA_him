@@ -6,7 +6,8 @@
     <source>3131 shab 909383</source>
     <permissions view="ericsson_internal"/>
     <metadata>
-      <othermeta name="workitem" content="NA"/>
+      <othermeta name="workitem" content="test"/>
+      <othermeta content="" name="workitem"/>
     </metadata>
     <resourceid id="NA"/>
   </prolog>
