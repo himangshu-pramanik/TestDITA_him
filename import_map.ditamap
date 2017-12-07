@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+    <bookmap id="f201512161434191941" xml:lang="en-US">
+  <booktitle>
+    <mainbooktitle>ImportTest_dita_Map</mainbooktitle>
+  </booktitle>
+  <bookmeta>
+    <publisherinformation>
+      <published>
+        <organization/>
+        <completed>
+          <year>2015</year>
+          <month>12</month>
+          <day>14</day>
+        </completed>
+      </published>
+    </publisherinformation>
+    <permissions view="ericsson_internal"/>
+    <audience othertype="all"/>
+    <bookid>
+      <edition>PA1</edition>
+      <booknumber>9007 HSP 70005 700<option/>
+      </booknumber>
+    </bookid>
+    <bookchangehistory>
+      <reviewed>
+        <person value=""/>
+        <organization/>
+      </reviewed>
+      <edited>
+        <person value=""/>
+        <organization/>
+      </edited>
+      <approved value="no">
+        <person value=""/>
+        <organization/>
+      </approved>
+      <bookevent>
+        <bookeventtype name="workflow_status" value="work"/>
+      </bookevent>
+      <bookevent>
+        <bookeventtype name="changerecord"/>
+        <person value=""/>
+        <revisionid/>
+        <completed>
+          <year/>
+          <month/>
+          <day/>
+        </completed>
+        <summary/>
+      </bookevent>
+    </bookchangehistory>
+    <bookrights>
+      <copyrfirst>
+        <year/>
+      </copyrfirst>
+      <bookowner>
+        <organization/>
+      </bookowner>
+      <bookrestriction value="NA"/>
+    </bookrights>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc outputclass="toc2"/>
+    </booklists>
+  </frontmatter>
+
+<chapter href ="test1.dita"  ></chapter>
+</bookmap>
