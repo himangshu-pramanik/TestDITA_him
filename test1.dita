@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="f2015121614341919406" xml:lang="en-US">
+  <title>TABLE 37</title>
+  <prolog>
+    <source>3131 shab 909383</source>
+    <permissions view="ericsson_internal"/>
+    <metadata>
+      <othermeta name="workitem" content="NA"/>
+    </metadata>
+    <resourceid id="NA"/>
+  </prolog>
+  <conbody>
+    <?oxy-placeholder content="Please give a title"?> 
+    
+    <p>New oXygen author v18.1 is adapted with following major features:</p>
+    <ul>
+      <li>
+        <p>Support for Image Map Editor ++</p>
+        <ul>
+          <li>
+            <p>First of all an <codeph>&lt;imagemap></codeph> element is needed to be
+              inserted and then an inner <codeph>&lt;image></codeph></p>
+            <p>On clicking the <codeph>&lt;imagemap></codeph>or
+              <codeph>&lt;image></codeph> we get the <uicontrol>Image Map
+                Editor</uicontrol> option in the context menu,</p></li>
+          <li>
+            <p>Form controls with dropdown extended for the <codeph>&lt;section&gt;</codeph>  to enable
+              user to define all relevant attribute definitions without having to open the separate
+              attribute dialog. Minor fine tunings are done for other elements as well.</p>
+          </li>
+          <li><p><uicontrol>Insert External Link...</uicontrol> is now enabled for
+            <codeph>&lt;keydef&gt;</codeph> element in <codeph>&lt;bookmap&gt;</codeph></p></li>
+          <li>
+            <p>Removed submenu items<uicontrol> Insert variable from map</uicontrol> and <uicontrol>
+              Insert external link from map</uicontrol> from <uicontrol>XML</uicontrol> menu</p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p><?oxy-placeholder content="Please give a title"?> 
+    </p>
+  </conbody>
+</concept>
