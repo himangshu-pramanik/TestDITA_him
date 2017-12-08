@@ -19,7 +19,9 @@
     <audience othertype="all"/>
     <bookid>
       <edition>PA1</edition>
-      <booknumber>9007 HSP 70005 700<option/>
+      <booknumber><?oxy_insert_start author="Anonymous" timestamp="20171208T122244+0530"?>3131-SAI
+        786
+        9880<?oxy_insert_end?><?oxy_delete author="Anonymous" timestamp="20171208T122244+0530" content="9007 HSP 70005 700"?><option/>
       </booknumber>
     </bookid>
     <bookchangehistory>
