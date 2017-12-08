@@ -14,7 +14,6 @@
     <?oxy-placeholder content="Please give a title"?> 
     
     <p>New oXygen author v18.1 is adapted with following major features:</p>
-    <p>This is a test para: <xref href="test1.dita#f2015121614341919406"/></p>
     <ul>
       <li>
         <p>Support for Image Map Editor</p>
