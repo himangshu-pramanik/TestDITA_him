@@ -32,7 +32,8 @@
                 format="html">inserted</xref> and <xref href="http://test.com"
                 scope="external" format="html">then</xref> an <xref
                 href="urn:x-ericsson:r2:reg-doc:hiq33:*:*" scope="external" format="html"
-                >inner</xref> this identity test : href="urn:x-ericsson:r2:reg-doc:3_154.31-cnt.223.1034:en:PA1#sSNSHSPTest"
+                >inner</xref> this identity test : <xref
+                href="urn:x-ericsson:r2:reg-doc:3_154.31-cnt.223.1034:en:PA1#sSNSHSPTest"
                 scope="external" format="html">extended</xref>
               <codeph>&lt;image&gt;</codeph></p>
           </li>
