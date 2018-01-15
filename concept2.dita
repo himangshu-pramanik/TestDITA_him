@@ -1,9 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_kcm_3qr_ncb">
-    <title></title>
-    <shortdesc></shortdesc>
-    <conbody>
-        <p></p>
-    </conbody>
+<!DOCTYPE concept PUBLIC "-//ERICSSON//DTD ERICSSON DITA Composite//EN" "ericssonDitabase.dtd">
+<concept id="nhn1515489180672" xml:lang="en-US">
+  <title>ImportTest_dita_Topic_updated</title>
+  <prolog>
+    <source>3131 shab 909383</source>
+    <permissions view="ericsson_internal"/>
+    <metadata>
+      <othermeta content="NA" name="workitem"/>
+    </metadata>
+    <resourceid id="NA"/>
+  </prolog>
+  <conbody>
+    <?oxy-placeholder content="Please give a title"?> 
+    
+    <p>New oXygen author v18.1 is adapted with following major features:</p>
+    <ul>
+      <li>
+        <p>Support for Image Map Editor ++</p>
+        <ul>
+          <li>
+            <p>First of all an <codeph>&lt;imagemap&gt;</codeph> element is <xref
+                href="urn:x-ericsson:r2:lib-doc:just:*:*:*" scope="external" format="html"
+                >needed</xref> to be <xref href="urn:x-ericsson:r2:reg-doc:*-*:*:*?title=this"
+                scope="external" format="html">inserted</xref> and <xref href="http://test.com"
+                scope="external" format="html">then</xref> an inner
+              <codeph>&lt;image&gt;</codeph></p>
+            <p>On clicking the <codeph>&lt;imagemap&gt;</codeph>or <codeph>&lt;image&gt;</codeph> we
+              get the <uicontrol>Image Map Editor</uicontrol> option in the context menu,</p></li>
+          <li>
+            <p>Form controls with dropdown extended for the <codeph>&lt;section&gt;</codeph>  to enable
+              user to define all relevant attribute definitions without having to open the separate
+              attribute dialog. Minor fine tunings are done for other elements as well.</p>
+          </li>
+          <li><p><uicontrol>Insert External Link...</uicontrol> is now enabled for
+            <codeph>&lt;keydef&gt;</codeph> element in <codeph>&lt;bookmap&gt;</codeph></p></li>
+          <li>
+            <p>Removed submenu itemsu can test..no need to show code now...u insert <uicontrol> Insert variable from map</uicontrol> and <uicontrol>
+              Insert external link from map</uicontrol> from <uicontrol>XML</uicontrol> menu</p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p><?oxy-placeholder content="Please give a title"?> 
+    </p>
+  </conbody>
 </concept>
