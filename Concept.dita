@@ -27,8 +27,9 @@
           <li>
             <p>First of all an <codeph>&lt;imagemap&gt;</codeph> element is <xref
                 href="urn:x-ericsson:r2:lib-doc:just:*:*:*" scope="external" format="html"
-                >needed</xref> to be <xref href="urn:x-ericsson:r2:reg-doc:*-*:*:*?title=this"
-                scope="external" format="html">inserted</xref> and <xref href="http://test.com"
+                >needed</xref> to be <xref
+                href="urn:x-ericsson:r2:reg-doc:*56548-*:*:*#ykud?title=this" scope="external"
+                format="html">inserted</xref> and <xref href="http://test.com"
                 scope="external" format="html">then</xref> an <xref
                 href="urn:x-ericsson:r2:reg-doc:hiq33:*:*" scope="external" format="html"
                 >inner</xref>
