@@ -29,7 +29,9 @@
                 href="urn:x-ericsson:r2:lib-doc:just:*:*:*" scope="external" format="html"
                 >needed</xref> to be <xref href="urn:x-ericsson:r2:reg-doc:*-*:*:*?title=this"
                 scope="external" format="html">inserted</xref> and <xref href="http://test.com"
-                scope="external" format="html">then</xref> an inner
+                scope="external" format="html">then</xref> an <xref
+                href="urn:x-ericsson:r2:reg-doc:hiq33:*:*" scope="external" format="html"
+                >inner</xref>
               <codeph>&lt;image&gt;</codeph></p>
           </li>
           <li>
