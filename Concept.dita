@@ -21,21 +21,19 @@
           <li>
             <p>First of all an <codeph>imagemap</codeph> element is needed to be inserted and then
               an inner <codeph>image</codeph></p>
-            <p>On clicking the <codeph>&lt;imagemap></codeph>or
-              <codeph>&lt;image></codeph> we get the <uicontrol>Image Map
+            <p>On clicking the <codeph/>or <codeph>image</codeph> we get the <uicontrol>Image Map
                 Editor</uicontrol> option in the context menu,</p></li>
           <li>
-            <p>First of all an <codeph>&lt;imagemap&gt;</codeph> element is <xref
+            <p>First of all an <codeph>imagemap</codeph> element is <xref
                 href="urn:x-ericsson:r2:lib-doc:just:*:*:*" scope="external" format="html"
                 >needed</xref> to be <xref
                 href="urn:x-ericsson:r2:reg-doc:*56548-*:*:*#ykud?title=this" scope="external"
-                format="html">inserted</xref> and <xref href="http://test.com"
-                scope="external" format="html">then</xref> an <xref
-                href="urn:x-ericsson:r2:reg-doc:hiq33:*:*" scope="external" format="html"
-                >inner</xref> this identity test : <xref
+                format="html">inserted</xref> and <xref href="http://test.com" scope="external"
+                format="html">then</xref> an <xref href="urn:x-ericsson:r2:reg-doc:hiq33:*:*"
+                scope="external" format="html">inner</xref> this identity test : <xref
                 href="urn:x-ericsson:r2:reg-doc:3_154.31-cnt.223.1034:en:PA1#sSNSHSPTest"
                 scope="external" format="html">extended</xref>
-              <codeph>&lt;image&gt;</codeph></p>
+              <codeph>image</codeph></p>
           </li>
           <li>
             <p>Form controls with drop-down extended for the <codeph>&lt;section&gt;</codeph> to
