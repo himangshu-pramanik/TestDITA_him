@@ -20,7 +20,7 @@
         <ul>
           <li>
             <p>First of all an <codeph>imagemap</codeph> element is needed to be inserted and then
-              an inner <codeph>&lt;image></codeph></p>
+              an inner <codeph>image</codeph></p>
             <p>On clicking the <codeph>&lt;imagemap></codeph>or
               <codeph>&lt;image></codeph> we get the <uicontrol>Image Map
                 Editor</uicontrol> option in the context menu,</p></li>
