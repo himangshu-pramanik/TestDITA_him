@@ -52,7 +52,5 @@
         </ul>
       </li>
     </ul>
-    <p><?oxy-placeholder content="Please give a title"?> 
-    </p>
   </conbody>
 </concept>
