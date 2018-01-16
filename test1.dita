@@ -26,9 +26,10 @@
               <codeph>&lt;image></codeph> we get the <uicontrol>Image Map
                 Editor</uicontrol> option in the context menu,</p></li>
           <li>
-            <p>Form controls with drop-down extended for the <codeph>&lt;section&gt;</codeph> to
-              enable user to define all relevant attribute definitions without having to open the
-              separate attribute dialog. Minor fine tunings are done for other elements as well.</p>
+            <p>Form controls with drop-down extended for <msgblock xml:space="preserve"/>the
+                <codeph>&lt;section&gt;</codeph> to enable user to define all relevant attribute
+              definitions without having to open the separate attribute dialog. Minor fine tunings
+              are done for other elements as well.</p>
           </li>
           <li><p><uicontrol>Insert External Link...</uicontrol> is now enabled for
             <codeph>&lt;keydef&gt;</codeph> element in <codeph>&lt;bookmap&gt;</codeph></p></li>
