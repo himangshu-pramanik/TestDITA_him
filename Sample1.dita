@@ -21,7 +21,31 @@
             for the &lt;section> to enable user to define all relevant attribute definitions without
             having to open the separate attribute dialog. Minor fine tunings are done for other
             elements as well. Insert External Link... is now enabled for &lt;keydef> element in
-            &lt;bookmap> Removed sub-menu items Insert variable from map and Insert external link
-            from map from XML menu</p>
+            &lt;bookmap> Removed sub-menu items Insert variable from map and Insert ext<table>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>ernal link from map from XML menu</p>
     </conbody>
 </concept>
