@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.3 Concept//EN" "concept.dtd">
+<concept id="zsu1483964218093" xml:lang="en-US">
+  <title>Data Types</title>
+  <prolog>
+    <source/>
+    <permissions view="ericsson_internal"/>
+    <metadata>
+      <othermeta content="NA" name="workitem"/>
+    </metadata>
+    <resourceid id="NA"/>
+  </prolog>
+  <conbody>
+    <p>Interpretation of generic trap types:</p>
+    <dl>
+      <dlentry>
+        <dt id="test1">coldStart:</dt>
+        <dd>
+          <p>The agent sending this trap re-initializes
+itself due to a reboot.</p>
+        </dd>
+      </dlentry>
+      <dlentry>
+        <dt>warmStart:</dt>
+        <dd>
+          <p>The agent sending this trap re-initializes
+itself due to a normal restart.</p>
+        </dd>
+      </dlentry>
+      <dlentry>
+        <dt>lin<xref href="#zsu1483964218093/test1">link1</xref>kUp:</dt>
+        <dd>
+          <p>One of the communication links on the
+agent node has come up.</p>
+        </dd>
+      </dlentry>
+      <dlentry>
+        <dt>authenticationFailure:</dt>
+        <dd>
+          <p>The SNMP agent is reporting
+that it has received a request with an invalid community specification
+or a community with insufficient permissions to complete the request.</p>
+        </dd>
+      </dlentry>
+      <dlentry>
+        <dt id="test2">egpNeighborloss:</dt>
+        <dd>
+          <p>The agent cannot communicate
+with its EGP (Exterior Gateway Protocol) peer.</p>
+        </dd>
+      </dlentry>
+      <dlentry>
+        <dt>enterpriseSpecific:</dt>
+        <dd>
+          <p>The sending agent has detected an enterprise-specific event. The value of the specific
+            trap type field indicates the nature of the event<xref href="#zsu1483964218093/test2"
+            />.</p>
+        </dd>
+      </dlentry>
+    </dl>
+    <table frame="all" rowsep="1" colsep="1" id="table1">
+      <title>Tabl1</title>
+      <tgroup cols="2">
+        <colspec colname="c1" colnum="1" colwidth="1*"/>
+        <colspec colname="c2" colnum="2" colwidth="1*"/>
+        <thead>
+          <row>
+            <entry>
+              <p>head</p>
+            </entry>
+            <entry>
+              <p/>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <p/>
+            </entry>
+            <entry>
+              <p/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p/>
+            </entry>
+            <entry>
+              <p/>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <p/>
+            </entry>
+            <entry>
+              <p/>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <image href="../Images/jp_image.JPG" id="image_d3d_psg_4cb"/>
+  </conbody>
+</concept>
