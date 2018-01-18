@@ -25,5 +25,8 @@
                 <howtoavoid/>
             </messagepanel>
         </hazardstatement>
+        <example outputclass="collapsed">
+            <title>sample 1</title>
+        </example>
     </conbody>
 </concept>
