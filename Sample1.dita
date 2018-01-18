@@ -25,10 +25,10 @@
                 <howtoavoid/>
             </messagepanel>
         </hazardstatement>
-        <example outputclass="collapsed">
+        <example outputclass="expanded pgwide">
             <title>sample 1</title>
         </example>
-        <example><fig>
+        <example outputclass="expanded pgwide"><fig>
                 <title>fig title</title>
             </fig></example>
     </conbody>
