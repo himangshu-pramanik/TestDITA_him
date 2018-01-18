@@ -28,7 +28,7 @@ itself due to a normal restart.</p>
         </dd>
       </dlentry>
       <dlentry>
-        <dt>lin<xref href="#zsu1483964218093/test1">link1</xref>kUp:</dt>
+        <dt><xref href="#zsu1483964218093/table1">linkUp</xref>:</dt>
         <dd>
           <p>One of the communication links on the
 agent node has come up.</p>
@@ -37,9 +37,8 @@ agent node has come up.</p>
       <dlentry>
         <dt>authenticationFailure:</dt>
         <dd>
-          <p>The SNMP agent is reporting
-that it has received a request with an invalid community specification
-or a community with insufficient permissions to complete the request.</p>
+          <p>The SNMP agent is reporting that it has received a request with an invalid community
+            specification or a community with insufficient permissions to complete the request.</p>
         </dd>
       </dlentry>
       <dlentry>
