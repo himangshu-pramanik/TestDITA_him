@@ -15,7 +15,7 @@
         <resourceid id="NA"/>
     </prolog>
     <conbody>
-        <msgblock xml:space="preserve" outputclass="condensed"/>
+        <msgblock xml:space="preserve" outputclass="condensed pgwide"/>
         <codeblock xml:space="preserve" outputclass="condensed"/>
         <pre xml:space="preserve" outputclass="condensed"/>
     </conbody>
