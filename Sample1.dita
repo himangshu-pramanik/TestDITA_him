@@ -18,12 +18,6 @@
         <msgblock xml:space="preserve" outputclass="condensed"/>
         <codeblock xml:space="preserve" outputclass="condensed"/>
         <pre xml:space="preserve" outputclass="condensed"/>
-        <hazardstatement type="caution">
-            <messagepanel>
-                <typeofhazard/>
-                <howtoavoid/>
-            </messagepanel>
-        </hazardstatement>
         <example outputclass="expanded pgwide">
             <title>sample 1</title>
         </example>
