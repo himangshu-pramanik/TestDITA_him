@@ -18,8 +18,5 @@
         <msgblock xml:space="preserve" outputclass="condensed"/>
         <codeblock xml:space="preserve" outputclass="condensed"/>
         <pre xml:space="preserve" outputclass="condensed"/>
-        <example outputclass="expanded pgwide">
-            <title>sample 1</title>
-        </example>
     </conbody>
 </concept>
