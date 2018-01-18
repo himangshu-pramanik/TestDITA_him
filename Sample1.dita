@@ -19,5 +19,11 @@
         <codeblock xml:space="preserve" outputclass="condensed"/>
         <pre xml:space="preserve" outputclass="condensed"/>
         <note type="other"><p/><image/></note>
+        <hazardstatement>
+            <messagepanel>
+                <typeofhazard/>
+                <howtoavoid/>
+            </messagepanel>
+        </hazardstatement>
     </conbody>
 </concept>
