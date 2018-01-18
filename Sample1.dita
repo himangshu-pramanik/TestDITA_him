@@ -28,5 +28,8 @@
         <example outputclass="collapsed">
             <title>sample 1</title>
         </example>
+        <example><fig>
+                <title>fig title</title>
+            </fig></example>
     </conbody>
 </concept>
