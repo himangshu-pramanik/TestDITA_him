@@ -18,7 +18,7 @@
         <msgblock xml:space="preserve" outputclass="condensed"/>
         <codeblock xml:space="preserve" outputclass="condensed"/>
         <pre xml:space="preserve" outputclass="condensed"/>
-        <hazardstatement>
+        <hazardstatement type="caution">
             <messagepanel>
                 <typeofhazard/>
                 <howtoavoid/>
