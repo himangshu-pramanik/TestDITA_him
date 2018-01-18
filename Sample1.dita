@@ -18,5 +18,8 @@
         <msgblock xml:space="preserve" outputclass="condensed"/>
         <codeblock xml:space="preserve" outputclass="condensed"/>
         <pre xml:space="preserve" outputclass="condensed"/>
+        <note type="other">
+            <p/>
+        </note>
     </conbody>
 </concept>
