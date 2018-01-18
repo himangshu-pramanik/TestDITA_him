@@ -15,13 +15,6 @@
         <resourceid id="NA"/>
     </prolog>
     <conbody>
-        <p>Support for Image Map Editor First of all an &lt;imagemap> element is needed to be
-            inserted and then an inner &lt;image> On clicking the &lt;imagemap>or &lt;image> we get
-            the Image Map Editor option in the context menu, Form controls with drop-down extended
-            for the &lt;section> to enable user to define all relevant attribute definitions without
-            having to open the separate attribute dialog. Minor fine tunings are done for other
-            elements as well. Insert External Link... is now enabled for &lt;keydef> element in
-            &lt;bookmap> Removed sub-menu items Insert variable from map and Insert extExternal link
-            from map from XML menu</p>
+        <msgblock xml:space="preserve" outputclass="condensed"/>
     </conbody>
 </concept>
