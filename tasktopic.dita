@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//ERICSSON//DTD ERICSSON DITA Composite//EN" "ericssonDitabase.dtd">
+<task id="wuq1516281840525" xml:lang="en-US">
+    <title>xgirput_task</title>
+    <shortdesc/>
+    <prolog>
+        <source/>
+        <permissions view="ericsson_internal"/>
+        <metadata>
+            <keywords>
+                <keyword/>
+            </keywords>
+            <othermeta content="NA" name="workitem"/>
+        </metadata>
+        <resourceid id="NA"/>
+    </prolog>
+
+
+    <taskbody>
+        <prereq outputclass="tools"><!--List all required tools and equipment for completing this task. If there are none, delete this element.--></prereq>
+        <prereq><!--List any thing the user should know or have done before completing this task. If there are no prerequisites, delete this element.--></prereq>
+        <steps-unordered>
+            <step>
+                <cmd><!--Enter each item of the checklist in a separate step element.--></cmd>
+                <info><!--You can provide additional information about any item in the checklist using the same subelements as are available in the general task.--></info>
+            </step>
+            <step>
+                <cmd><!--For a master task, you may want to link to the instructions for how to complete each of the procedures.--></cmd>
+                <info><!--Ensure that a topic for each procedure already exists. Then follow these steps.--></info>
+                <substeps id="substeps_uw3_wyt_sl">
+                    <substep>
+                        <cmd><!--Place your cursor where you want the cross reference to appear.--></cmd>
+                    </substep>
+                    <substep>
+                        <cmd><!--Select <menucascade><uicontrol>DITA</uicontrol><uicontrol>Link</uicontrol><uicontrol>Cross Reference</uicontrol></menucascade>--></cmd>
+                    </substep>
+                    <substep>
+                        <cmd><!--In the URL field, click the folder icon, navigate to the appropriate file and click <uicontrol>Open</uicontrol>.--></cmd>
+                    </substep>
+                    <substep>
+                        <cmd><!--Click <uicontrol>OK</uicontrol>.--></cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps-unordered>
+        <result><!--Optionally show the expected result the user should see if the task is completed correctly.--></result>
+        <example><!--Optionally provide one or more examples of the task.--></example>
+    </taskbody>
+</task>
