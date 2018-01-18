@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="phw1516283184782" xml:lang="en-US">
+    <title>xgirput_trouble</title>
+    <!-- Unique title with error code / alarm / event; if not available: state the "problem's symptom". Title examples: "ethLinkDown" (that is,  alarm slogan) or "DNS Problems".-->
+    <!--For more information on how to use this template, refer to the method "How to Write Troubleshooting Topics" in the library "CPI methods" in CAL Store. -->
+    <shortdesc><!-- Required. Enter additional information in short form here, no more than 50 words. Examples:  "This alarm is generated when the Ethernet port does not receive any signal from the carrier. This indicates a remote peer down, SFP/SFP+ problem, or a cable problem." or "This section describes how to diagnose and resolve no IP connectivity towards the DNS servers, faulty DNS entries and if the DNS server is unavailable.". Do not repeat information already in title and if more information is required to fully understand what this troubeshooting topic applies to then use the condition element below.--></shortdesc>
+    <prolog>
+        <!--It is optional to enter information in the prolog element.-->
+        <source/>
+        <permissions view="ericsson_internal"/>
+        <metadata>
+            <keywords>
+                <keyword/>
+            </keywords>
+            <othermeta content="NA" name="workitem"/>
+        </metadata>
+        <resourceid id="NA"/>
+    </prolog>
+    <troublebody>
+        <condition>
+            <!-- Title optional.-->
+            <p><!--
+Optional. Describe what this section applies to and add information such as impact, severity, category, area, valid for. In cases where the topic title and short description fully explains the condition, do not use the condition element.--></p>
+        </condition>
+        <troubleSolution outputclass="diagnostics">
+            <!--Optional. You can add one or more troubleSolution elements with attribute outputclass="diagnostics" if you need to include diagnostics information.-->
+            <cause>
+                <title>Diagnostics</title>
+                <p><!--Optional. Add diagnostics text here.--></p>
+                <fig><!--Optional. Add diagnostics overview illustration here.--></fig>
+            </cause>
+            <remedy>
+                <steps>
+                    <step>
+                        <cmd><!--Optional. Add your diagnostic steps here.--></cmd>
+                    </step>
+                </steps>
+            </remedy>
+            <!--If you need multiple step lists, you can add more remedy elements in this troublesolution element. If you need to add more diagnostic text before an additional step list then add another troubleSolution element with outputclass="diagnostics" and no title for <cause>.-->
+        </troubleSolution>
+        <troubleSolution>
+            <!--
+As a rule, troubleSolution holds pairs of cause and remedy. Multiple troubleSolution elements can be used if there are multiple cause-remedy pairs.-->
+            <cause>
+                <title><!--
+Optional title.
+For topics with just one troubleSolution, the title will be an auto-generated text. For topics with mutliple troubleSolutions, state the essential nature of the particular cause.--></title>
+                <p><!--Describe the cause--></p>
+            </cause>
+            <remedy>
+                <!--Auto-generated heading will be rendered. Include optional title, if there are multiple remedies.-->
+                <responsibleParty><!--
+Optional, product area decision to include or not.
+--></responsibleParty>
+                <!-- Note: You can use steps-unordered or steps-informal instead of steps.-->
+                <steps>
+                    <!--
+Tip: You can use conref to reuse steps from tasks or other troubleshooting topics.-->
+                    <step>
+                        <cmd/>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>
