@@ -11,16 +11,69 @@
     <resourceid id="NA"/>
   </prolog>
   <conbody>
-    <?oxy-placeholder content="Please give a title"?> 
-    
-    <p>New oXygen author v18.1 is adapted with following major features:</p>
+    <p>New oXygen author v18.1 is adapted with following major
+      <?oxy_delete author="himangshu-pramanik" timestamp="20180122T153718+0200" content="features"?>:
+      <?oxy_insert_start author="himangshu-pramanik" timestamp="20180122T153714+0200"?>test
+      <?oxy_insert_end?></p>
     <ul>
       <li>
         <p>Support for Image Map Editor</p>
         <ul>
           <li>
-            <p>First of all an <codeph>&lt;imagemap></codeph> element is needed to be inserted and
-              then an inner <codeph>&lt;image></codeph></p>
+            <p>First of all an <codeph>&lt;imagemap></codeph> element is <table
+                id="table_uh3_1rr_pcb">
+                <title>test</title>
+                <tgroup cols="2">
+                  <colspec colname="c1" colnum="1" colwidth="1*"/>
+                  <colspec colname="c2" colnum="2" colwidth="1*"/>
+                  <thead>
+                    <row>
+                      <entry/>
+                      <entry/>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry/>
+                      <entry/>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry/>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry/>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>needed to be i<table id="table_g2r_zqr_pcb">
+                <title>test</title>
+                <tgroup cols="2">
+                  <colspec colname="c1" colnum="1" colwidth="1*"/>
+                  <colspec colname="c2" colnum="2" colwidth="1*"/>
+                  <thead>
+                    <row>
+                      <entry/>
+                      <entry/>
+                    </row>
+                  </thead>
+                  <tbody>
+                    <row>
+                      <entry/>
+                      <entry/>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry/>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry/>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>nserted and then an inner <codeph>&lt;image></codeph></p>
             <p>On clicking the <codeph>&lt;imagemap></codeph>or <codeph>&lt;image></codeph> we get
               the <uicontrol>Image Map Editor</uicontrol> option in the context menu,</p></li>
           <li>
@@ -52,3 +105,4 @@
     </ul>
   </conbody>
 </concept>
+<?oxy_options track_changes="on"?>
