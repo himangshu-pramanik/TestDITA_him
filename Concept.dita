@@ -12,40 +12,9 @@
   </prolog>
   <conbody>
     <p>New oXygen author v18.1 is adapted with following major
-      <?oxy_delete author="himangshu-pramanik" timestamp="20180122T153718+0200" content="features"?>:
-      <?oxy_insert_start author="himangshu-pramanik" timestamp="20180122T153714+0200"?>test
-      <?oxy_insert_end?></p>
+      <?oxy_comment_start author="himangshu-pramanik" timestamp="20180205T111943+0530" comment="test
+"?>features<?oxy_comment_end?>: </p>
     <ul>
-      <?oxy_insert_start author="himangshu-pramanik" timestamp="20180124T144256+0530"?>
-      <li>
-        <table id="table_efq_y1f_qcb">
-          <tgroup cols="2">
-            <colspec colname="c1" colnum="1" colwidth="1*"/>
-            <colspec colname="c2" colnum="2" colwidth="1*"/>
-            <thead>
-              <row>
-                <entry/>
-                <entry/>
-              </row>
-            </thead>
-            <tbody>
-              <row>
-                <entry/>
-                <entry/>
-              </row>
-              <row>
-                <entry/>
-                <entry/>
-              </row>
-              <row>
-                <entry/>
-                <entry/>
-              </row>
-            </tbody>
-          </tgroup>
-        </table>
-      </li>
-      <?oxy_insert_end?>
       <li>
         <p>Support for Image Map Editor</p>
         <ul>
@@ -77,9 +46,7 @@
                     </row>
                   </tbody>
                 </tgroup>
-              </table>needed to be
-                i<?oxy_attributes outputclass="&lt;change type=&quot;inserted&quot; author=&quot;himangshu-pramanik&quot; timestamp=&quot;20180124T144258+0530&quot; /&gt;"?><table
-                id="table_g2r_zqr_pcb" outputclass="norowsplit">
+              </table>needed to be i<table id="table_g2r_zqr_pcb">
                 <title>test</title>
                 <tgroup cols="2">
                   <colspec colname="c1" colnum="1" colwidth="1*"/>
@@ -122,90 +89,10 @@
               <codeph>image</codeph></p>
           </li>
           <li>
-            <p>Form controls with drop-down
-                extende<?oxy_insert_start author="himangshu-pramanik" timestamp="20180124T144302+0530"?><table
-                id="table_iny_y1f_qcb">
-                <tgroup cols="2">
-                  <colspec colname="c1" colnum="1" colwidth="1*"/>
-                  <colspec colname="c2" colnum="2" colwidth="1*"/>
-                  <thead>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                  </thead>
-                  <tbody>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                  </tbody>
-                </tgroup>
-              </table><?oxy_insert_end?>d for the <codeph>&lt;section&gt;</codeph> to enable user to
-              define all relevant attribute
-                definition<?oxy_insert_start author="himangshu-pramanik" timestamp="20180124T144307+0530"?><table
-                id="table_rtf_z1f_qcb">
-                <tgroup cols="2">
-                  <colspec colname="c1" colnum="1" colwidth="1*"/>
-                  <colspec colname="c2" colnum="2" colwidth="1*"/>
-                  <thead>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                  </thead>
-                  <tbody>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                  </tbody>
-                </tgroup>
-              </table><?oxy_insert_end?>s without having to open the separate attribute dialog.
-              Minor fine
-                tunin<?oxy_insert_start author="himangshu-pramanik" timestamp="20180124T144312+0530"?><table
-                id="table_vnm_z1f_qcb">
-                <tgroup cols="2">
-                  <colspec colname="c1" colnum="1" colwidth="1*"/>
-                  <colspec colname="c2" colnum="2" colwidth="1*"/>
-                  <thead>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                  </thead>
-                  <tbody>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                    <row>
-                      <entry/>
-                      <entry/>
-                    </row>
-                  </tbody>
-                </tgroup>
-              </table><?oxy_insert_end?>gs are done for other elements as well.</p>
+            <p>Form controls with drop-down extended for the <codeph>&lt;section&gt;</codeph> to
+              enable user to define all relevant attribute definitions without having to open the
+              separate attribute dialog. Minor fine tunings are done for other elem<xref
+                href="#f2015121614341919406/table_g2r_zqr_pcb"/>ents as well.</p>
           </li>
           <li>
             <p><uicontrol>Insert External Link...</uicontrol> is now enabled for
